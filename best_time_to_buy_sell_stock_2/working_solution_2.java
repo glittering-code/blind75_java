@@ -5,6 +5,8 @@ Hence we will create an array which will have maximum element towards right of i
 substract every element of this new array from prices array and find the maximum among it
 
 */ 
+// time complexity = O(n)
+// space complexity = O(n)
 class Solution {
     public int maxProfit(int[] prices) {
         int max_profit = 0;
