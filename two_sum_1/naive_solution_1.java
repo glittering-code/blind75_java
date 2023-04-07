@@ -1,4 +1,5 @@
-//https://leetcode.com/problems/two-sum/description/
+//problem link : https://leetcode.com/problems/two-sum/description/
+//solution link : https://leetcode.com/problems/two-sum/submissions/928343409/
 // time complexity = O(n^2)
 // space complexity = O(1)
 class Solution {
